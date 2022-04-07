@@ -1,5 +1,8 @@
 # c-_project_proposal
 
+![housing](https://user-images.githubusercontent.com/89958513/162233522-9830ade0-f4fd-4384-89e1-84214322ea59.png)
+
+
 ** C++ Project Proposal **
 Problem:
 People have different personalities and different preferences but in general; they can be grouped into two: introverts, and extroverts. In my community specifically my apartment block I have noticed that people who live close/next to each other are so incompatible that it is hard to relate to each other let alone make friends. Sometimes the neighbor can decide to play music at a very high volume and if the others are to complain it would seem like they are trying to be controlling especially if they complain every day. At the end of the day some end up living uncomfortably because they cannot move out that easily because other apartments are ridiculously expensive.
